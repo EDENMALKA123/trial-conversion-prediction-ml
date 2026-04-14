@@ -8,7 +8,7 @@ This repository reflects an independent technical exercise; **no employer or pro
 
 A **read-only HTML export** of the notebook is in `docs/index.html`:
 
-**[Open interactive report →](https://EDENMALKA123.github.io/trial-conversion-prediction-ml/)**
+**[Open interactive report →](https://edenmalka123.github.io/trial-conversion-prediction-ml/)**
 
 Enable **GitHub Pages** if you see 404: **Settings → Pages → Branch `main` / folder `/docs` → Save**.
 
