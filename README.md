@@ -4,6 +4,14 @@ Portfolio project: predict **trial-to-paid conversion** within a **120-day** win
 
 This repository reflects an independent technical exercise; **no employer or product name** is used in the title or description.
 
+## Interactive report (HTML)
+
+A **read-only HTML export** of the notebook is in `docs/index.html`:
+
+**[Open interactive report →](https://EDENMALKA123.github.io/trial-conversion-prediction-ml/)**
+
+Enable **GitHub Pages** if you see 404: **Settings → Pages → Branch `main` / folder `/docs` → Save**.
+
 ## Data
 
 Add your parquet files under `data/`:
